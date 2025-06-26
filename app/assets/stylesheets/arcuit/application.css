@@ -1,0 +1,13 @@
+.libit-search-banner {
+    background-image: url(https://archon.library.illinois.edu/styles/landing/images/illinois-banner-combined.png);
+    background-size: cover;
+    padding-top: 67px;
+    padding-bottom: 67px;
+}
+.libit-search-banner ilw-content div.libit-search-bar .navbar-search {
+    background-color: var(--il-blue) !important;
+    border: none !important;
+}
+.libit-search-banner ilw-content div.libit-search-bar .navbar-search .search-query-form {
+    width: 100%;
+}
